@@ -14,3 +14,36 @@ header {
 header a {
     font-size: 11px;
 }
+.main-two {
+    gap: 20px;
+    margin: 10px 0px;
+}
+.main-two img {
+    height: 100vh;
+}
+.hvr-txt {
+    top: 0;
+}
+.main-four img {
+    height: 90vh;
+    object-fit: cover;
+}
+.f-one {
+    gap: 100px;
+}
+footer i {
+    font-size: 20px;
+}
+footer h3 {
+    font-size: 15px;
+}
+footer li {
+    list-style: none;
+    font-size: 14px;
+}
+.last i {
+    font-size: 15px;
+}
+.last span {
+    font-size: 12px;
+}
