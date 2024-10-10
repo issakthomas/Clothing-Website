@@ -8,6 +8,17 @@
 header {
     height: 6vh;
 }
+span {
+    cursor: pointer;
+}
+.underline {
+    border-bottom: 0;
+    padding-bottom: 3px;
+    transition: border-bottom .2s;
+}
+.underline:hover {
+    border-bottom: 2px solid black;
+}
 .logo {
     width: 12vh;
 }
@@ -27,6 +38,13 @@ header a {
 .main-four img {
     height: 90vh;
     object-fit: cover;
+}
+#carsl {
+    background-color: rgb(27, 27, 27);
+    margin: 20px 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .f-one {
     gap: 100px;
