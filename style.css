@@ -39,13 +39,6 @@ header a {
     height: 90vh;
     object-fit: cover;
 }
-#carsl {
-    background-color: rgb(27, 27, 27);
-    margin: 20px 23px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 .f-one {
     gap: 100px;
 }
